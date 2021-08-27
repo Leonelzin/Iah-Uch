@@ -10,17 +10,19 @@
     </p>
    </div>
   
-  <h4 align="left">What I'm up to lately
-    <img align ="botttom" width="20" height="20" src=".github/workflows/Profile-GIFs/cat-icon.png"></img>
+  <h4 align="left">What I'm up to lately ^ ↀ ᴥ ↀ ^
   </h4>
   <ul>
+    <li>🛠️ Currently working as a Database Analyst at
+      <a href="http://ftt.unievangelica.edu.br/portal/views/about.html" target="_blank">Turing Technology Factory (FTT)</a>
+    </li>
     <li>🧬 Studying Machine Learnig with Python.</li>
-    <li></li>
-    <li></li>
+    <li>🌐 IoT Hardware and Software Development.</li>
+
   </ul>
  
 
-   ##
+
 
   <div align="center">
     <a href="https://instagram.com/iah.uchoa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -35,7 +37,7 @@
     <img align="center"src="https://github-readme-stats.vercel.app/api?username=Iah-Uch&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&hide_border=true&custom_title=My GitHub Stats"/>
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iah-Uch&layout=compact&langs_count=1&theme=monokai&hide_border=true"/>
 
-  ##    
+    
 
   ![Snake animation](https://github.com/Iah-Uch/Iah-Uch/blob/output/github-contribution-grid-snake.svg)
 
