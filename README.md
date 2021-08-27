@@ -2,7 +2,7 @@
   
 ## Hi! I'm Iãh.
 <div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api?username=Iah-Uch&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&hide_border=true&custom_title=My_GitHub_Stats)](https://github.com/Iah-Uch/)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=Iah-Uch&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&hide_border=true&custom_title=My_GitHub_Stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iah-Uch&layout=compact&langs_count=7&theme=monokai&hide_border=true)](https://github.com/Iah-Uch/)
 </div>
