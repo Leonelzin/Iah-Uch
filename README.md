@@ -6,7 +6,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iah-Uch&layout=compact&langs_count=7&theme=monokai&hide_border=true&card_width=180"/>
 </div>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iah-Uch&layout=compact&langs_count=7&theme=monokai&hide_border=true&card_width=180)](https://github.com/Iah-Uch/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iah-Uch&layout=compact&langs_count=7&theme=monokai&hide_border=true)](https://github.com/Iah-Uch/)
 <div>
 
 
