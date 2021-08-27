@@ -1,10 +1,9 @@
 <div>
   
 ## Hi! I'm Iãh.
-  <h3 align="center">An Software Engeneering student and IoT enthusiast.</h3>
   <a href="https://github.com/Iah-Uch">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iah-Uch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iah-Uch&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=Iah-Uch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iah-Uch&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 ##
 <div>
