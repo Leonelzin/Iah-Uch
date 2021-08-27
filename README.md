@@ -2,7 +2,7 @@
   
   
 <div>   
-  <img width="55" height="55" align="left" src=".github/workflows/Profile-GIFs/space-cat.gif"/>
+  <img width="50" height="50" align="left" src=".github/workflows/Profile-GIFs/space-cat.gif"/>
   
 # Hi! I'm Iãh.   
   A brazillian software engneering student and IoT enthusiast, 
