@@ -5,7 +5,7 @@
  <div>
   <a href="https://github.com/Iah-Uch">
   <img src="https://github-readme-stats.vercel.app/api?username=Iah-Uch&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&hide_border=true&custom_title=My GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iah-Uch&layout=compact&langs_count=7&theme=monokai&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iah-Uch&layout=compact&langs_count=1&theme=monokai&hide_border=true"/>
 </div>  
   
 ##    
