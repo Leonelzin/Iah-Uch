@@ -2,9 +2,7 @@
   
   
 <div>   
-  
-  
-  <h1> <img width="50" height="50" align="left" src=".github/workflows/Profile-GIFs/space-cat.gif"/> Hi! I'm Iãh. </h1>   
+  <h1> <img width="40" height="40" align="left" src=".github/workflows/Profile-GIFs/space-cat.gif"/> Hi! I'm Iãh. </h1>   
   
 </div>
   
