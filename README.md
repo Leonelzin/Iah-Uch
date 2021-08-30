@@ -7,7 +7,7 @@
   
 <!-- Bio -->
   <div>
-    <p>I'm a brazillian software engneering student and tech enthusiast who enjoys doing art and professional cat patting.
+    <p>A brazillian Software Engneering student and tech enthusiast who enjoys doing art and professional cat patting.
     </p>
   </div>
   
