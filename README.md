@@ -19,7 +19,7 @@
   
   <ul>
     <li>
-      🛠️ Currently working as a Database Analyst at
+      🛠️ Working as a Database Analyst at
       <a  target="_blank" href="http://ftt.unievangelica.edu.br/portal/views/about.html">Turing Technology Factory (FTT)</a>
     </li>
     <li>
