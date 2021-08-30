@@ -31,6 +31,22 @@
   </ul>
 </div>
   
+<!-- Repos -->
+<div>
+  <h4 align="left">
+    My Repositories
+  </h4>
+  
+  <ul>
+    <li>
+      <a  target="_blank" href="https://github.com/Iah-Uch/Projetos-em-Python">Python Projects</a>
+    </li>  
+    <li>  
+      <a  target="_blank" href="https://github.com/Iah-Uch/IoT-Projects">IoT Projects</a>  
+    </li>  
+  </ul>
+</div>
+  
 <!-- Social Media -->  
   <div align="right">
     <a href="https://instagram.com/iah.uchoa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
