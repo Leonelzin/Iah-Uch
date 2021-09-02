@@ -1,9 +1,13 @@
 <div>
 
 <!-- Greeting -->
-  <div>   
-    <h1> <img width="40" height="40" align="left" src=".github/workflows/Profile-GIFs/space-cat.gif"/>Hi! I'm Iãh.</h1>   
+  <div>  
+    <h1> <img width="40" height="40" align="left" src=".github/workflows/Profile-GIFs/space-cat.gif"/>
+      <img src="https://readme-typing-svg.herokuapp.com?size=40&vCenter=true&width=311&height=43&lines=Hi%2C+I'm+I%C3%A3h"
+    </h1>   
   </div>
+  
+
   
 <!-- Bio -->
   <div>
