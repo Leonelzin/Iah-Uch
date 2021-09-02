@@ -59,8 +59,8 @@
 <!-- User Stats/ Commit Snake -->  
   <div>
     <a href="https://github.com/Iah-Uch">
-    <img align="center"src="https://github-readme-stats.vercel.app/api?username=Iah-Uch&show_icons=true&theme=monokai&hide=prs&include_all_commits=true&count_private=true&hide_border=true&custom_title=My GitHub Stats"/>
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iah-Uch&layout=default&langs_count=1&theme=monokai&hide_border=true"/>
+    <img width="400rem" align="center"src="https://github-readme-stats.vercel.app/api?username=Iah-Uch&show_icons=true&theme=monokai&hide=prs&include_all_commits=true&count_private=true&hide_border=true&custom_title=My GitHub Stats"/>
+    <img width="328rem" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iah-Uch&layout=default&langs_count=1&theme=monokai&hide_border=true"/>
   </div>
 
   ![Snake animation](https://github.com/Iah-Uch/Iah-Uch/blob/output/github-contribution-grid-snake.svg)
