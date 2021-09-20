@@ -45,9 +45,9 @@
     <li>
       <a  target="_blank" href="https://github.com/Iah-Uch/Python-Projects">Python Projects</a>
     </li>  
-<!--    <li>  
-      <a  target="_blank" href="https://github.com/Iah-Uch/IoT-Projects">IoT Projects</a>  
-    </li>  -->
+    <li>  
+      <a  target="_blank" href="https://github.com/Iah-Uch/WB-DataDict-Mod">WB-DataDict Mod</a>  
+    </li>
   </ul>
 </div>
   
