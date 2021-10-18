@@ -24,7 +24,7 @@
   <ul>
     <li>
       🛠️ Working as a Database Analyst at
-      <a  target="_blank" href="http://ftt.unievangelica.edu.br/portal/views/about.html">Turing Technology Factory (FTT)</a>
+      <a  target="_blank" href="https://www.linkedin.com/company/ftt-unievangelica/">Turing Technology Factory (FTT)</a>
     </li>
     <li>
       🧬 Studying Machine Learnig with Python.
@@ -47,6 +47,9 @@
     </li>  
     <li>  
       <a  target="_blank" href="https://github.com/Iah-Uch/WB-DataDict-Mod">WB-DataDict Mod</a>  
+    </li>
+    <li>  
+      <a  target="_blank" href="https://github.com/Iah-Uch/LubyDrinks-BD">LubyDrinks-BD</a>  
     </li>
   </ul>
 </div>
