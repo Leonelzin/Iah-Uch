@@ -23,11 +23,11 @@
   
   <ul>
     <li>
-      🛠️ Working as a Database Analyst at
+      🛠️ Working as a Database Designer at
       <a  target="_blank" href="https://www.linkedin.com/company/ftt-unievangelica/">Turing Technology Factory (FTT)</a>
     </li>
     <li>
-      🧬 Studying Machine Learnig with Python.
+      📄 Database documentation standards. 
     </li>
     <li>
       🌐 IoT Hardware and Software Development.
@@ -42,15 +42,15 @@
   </h4>
   
   <ul>
-    <li>
-      <a  target="_blank" href="https://github.com/Iah-Uch/Python-Projects">Python Projects</a>
-    </li>  
     <li>  
       <a  target="_blank" href="https://github.com/Iah-Uch/WB-DataDict-Mod">WB-DataDict Mod</a>  
     </li>
     <li>  
       <a  target="_blank" href="https://github.com/Iah-Uch/LubyDrinks-BD">LubyDrinks-BD</a>  
     </li>
+    <li>
+      <a  target="_blank" href="https://github.com/Iah-Uch/Python-Projects">Python Projects</a>
+    </li>  
   </ul>
 </div>
   
