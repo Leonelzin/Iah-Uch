@@ -32,6 +32,9 @@
     <li>
       🌐 IoT Hardware and Software Development.
     </li>
+    <li>
+      🎨 Improving my Front-End developing skills.
+    </li>
   </ul>
 </div>
   
