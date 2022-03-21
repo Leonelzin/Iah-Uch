@@ -23,17 +23,14 @@
   
   <ul>
     <li>
-      🛠️ Working as a Database Designer at
+      🛠️ Working as a Baxk-End Developer at
       <a  target="_blank" href="https://www.linkedin.com/company/ftt-unievangelica/">Turing Technology Factory (FTT)</a>
     </li>
     <li>
-      📄 Database documentation standards. 
+      📄 Data Science and Machine Learning. 
     </li>
     <li>
-      🌐 IoT Hardware and Software Development.
-    </li>
-    <li>
-      🎨 Improving my Front-End developing skills.
+      🌐 Python APIs.
     </li>
   </ul>
 </div>
@@ -46,7 +43,7 @@
   
   <ul>
     <li>  
-      <a  target="_blank" href="https://github.com/Iah-Uch/WB-DataDict-Mod">WB-DataDict Mod</a>  
+      <a  target="_blank" href="https://github.com/Iah-Uch/WB-DataDict-Mod">DataDict Mod</a>  
     </li>
     <li>  
       <a  target="_blank" href="https://github.com/Iah-Uch/LubyDrinks-BD">LubyDrinks-BD</a>  
