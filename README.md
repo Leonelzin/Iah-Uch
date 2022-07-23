@@ -23,14 +23,17 @@
   
   <ul>
     <li>
-      🛠️ Working as a Baxk-End Developer at
-      <a  target="_blank" href="https://www.linkedin.com/company/ftt-unievangelica/">Turing Technology Factory (FTT)</a>
+      🛠️ Working as a Back-End Developer at
+      <a  target="_blank" href="https://www.linkedin.com/company/ftt-unievangelica/">Turing Technology Factory (FTT);</a>
     </li>
     <li>
-      📄 Data Science and Machine Learning. 
+      📄 Data Science and Machine Learning;
     </li>
     <li>
-      🌐 Python APIs.
+      🐍 Python APIs;
+    </li>
+    <li>
+      🌐 Django.
     </li>
   </ul>
 </div>
