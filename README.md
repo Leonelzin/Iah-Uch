@@ -11,7 +11,7 @@
   
 <!-- Bio -->
   <div>
-    <p>A brazillian Software Engneering student and tech enthusiast who enjoys doing art and professional cat patting.
+    <p>A brazillian Back-end Developer who enjoys doing art and fulltime cat patting.
     </p>
   </div>
   
