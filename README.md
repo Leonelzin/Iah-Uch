@@ -67,13 +67,16 @@
   ##  
 
 <!-- User Stats/ Commit Snake -->  
-  <div align="center">
+  <div align="center" >
     <a href="https://github.com/Iah-Uch">
-    <img width="400rem" align="center"src="https://github-readme-stats.vercel.app/api?username=Iah-Uch&show_icons=true&theme=monokai&hide=prs&include_all_commits=true&count_private=true&hide_border=true&custom_title=My GitHub Stats"/>
-    <img width="328rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iah-Uch&layout=compact&langs_count=10&theme=monokai&hide_border=true"/>
+    <img width="480rem" src="https://github-readme-stats.vercel.app/api?username=Iah-Uch&show_icons=true&theme=monokai&hide=prs&include_all_commits=true&count_private=true&hide_border=true&custom_title=My GitHub Stats"/>
+    <img width="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iah-Uch&layout=compact&langs_count=10&theme=monokai&hide_border=true"/>
+    <img width=850  src=https://github.com/Iah-Uch/Iah-Uch/blob/output/github-contribution-grid-snake.svg/>
   </div>
 
-  ![Snake animation](https://github.com/Iah-Uch/Iah-Uch/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/Iah-Uch/Iah-Uch/blob/output/github-contribution-grid-snake.svg) -->
+    
+ 
 
   ## 
 
@@ -81,9 +84,11 @@
   <div align="center">  
     <p>
       <h3 align="top">Tools and Skills</h3>
-      <a  href="#" target="_blank" title="Arduino"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/> </a>
-      &nbsp;&nbsp;&nbsp;&nbsp;
       <a href="#" target="_blank" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <a  href="#" target="_blank" title="Django"> <img src="https://user-images.githubusercontent.com/84246094/180622105-6de2c096-27b5-4469-8189-7a0175a0a903.png" alt="git" width="60" height="60"/> </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <a  href="#" target="_blank" title="Node"> <img src="https://img.icons8.com/fluency/344/node-js.png" alt="arduino" width="60" height="60"/> </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
       <a href="#" target="_blank" title="HTML5"> <img src="https://user-images.githubusercontent.com/84246094/134066180-d11880e0-f92f-47da-9f70-1b5d7c39934b.png" alt="html5" width="60" height="60"/> </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
@@ -94,6 +99,11 @@
       <a  href="#" target="_blank" title="PostgreSQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
       <a  href="#" target="_blank" title="GIT"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="60" height="60"/> </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <a  href="#" target="_blank" title="Docker"> <img src="https://img.icons8.com/fluency/344/docker.png" alt="git" width="60" height="60"/> </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <a  href="#" target="_blank" title="Arduino"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/> </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
     </p>
 
   </div>
