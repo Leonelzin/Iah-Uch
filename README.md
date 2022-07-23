@@ -2,7 +2,7 @@
 
 <!-- Greeting -->
   <div>  
-    <h1> <img width="40" height="40" align="left" src=".github/workflows/Profile-GIFs/space-cat.gif"/>
+    <h1> <img width="50" height="50" align="left" src=".github/workflows/Profile-GIFs/space-cat.gif"/>
       <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=2000&lines=Hi%2C+I'm+I%C3%A3h!"/>
     </h1>   
   </div>
