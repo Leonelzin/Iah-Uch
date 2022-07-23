@@ -51,9 +51,9 @@
     <li>  
       <a  target="_blank" href="https://github.com/Iah-Uch/LubyDrinks-BD">LubyDrinks-BD</a>  
     </li>
-<!--     <li>
+    <li>
       <a  target="_blank" href="https://github.com/Iah-Uch/vuttr_back">VUTTR</a>
-    </li>   -->
+    </li>
   </ul>
 </div>
   
