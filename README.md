@@ -54,6 +54,9 @@
     <li>
       <a  target="_blank" href="https://github.com/Iah-Uch/vuttr_back">VUTTR</a>
     </li>
+    <li>
+      <a  target="_blank" href="https://github.com/Iah-Uch/BuddyResc">BuddyResc</a>
+    </li>
   </ul>
 </div>
   
