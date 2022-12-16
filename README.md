@@ -39,7 +39,7 @@
 </div>
   
 <!-- Repos -->
-<div>
+<!-- <div>
   <h4 align="left">
     My Repositories
   </h4>
@@ -61,7 +61,7 @@
       <a  target="_blank" href="https://github.com/Iah-Uch/vuttr_back">VUTTR</a>
     </li>
   </ul>
-</div>
+</div> -->
   
 <!-- Social Media -->  
   <div align="right">
