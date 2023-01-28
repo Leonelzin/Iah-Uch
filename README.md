@@ -27,9 +27,6 @@
       <a  target="_blank" href="https://www.linkedin.com/company/ftt-unievangelica/">Turing Technology Factory (FTT);</a>
     </li>
     <li>
-      📄 Data Science and Machine Learning;
-    </li>
-    <li>
       🐍 Python APIs;
     </li>
     <li>
