@@ -23,10 +23,6 @@
   
   <ul>
     <li>
-      🛠️ Working as a Back-End Developer at
-      <a  target="_blank" href="https://www.linkedin.com/company/ftt-unievangelica/">Turing Technology Factory (FTT);</a>
-    </li>
-    <li>
       🐍 Python APIs;
     </li>
     <li>
